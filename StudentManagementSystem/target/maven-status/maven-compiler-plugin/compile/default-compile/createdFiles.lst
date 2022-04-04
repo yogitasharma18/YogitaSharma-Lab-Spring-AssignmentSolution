@@ -1,0 +1,12 @@
+com\greatLearning\studentmanagement\repository\StudentRepository.class
+com\greatLearning\studentmanagement\repository\UserRepository.class
+com\greatLearning\studentmanagement\controller\StudentController.class
+com\greatLearning\studentmanagement\service\StudentService.class
+com\greatLearning\studentmanagement\service\StudentServiceImpl.class
+com\greatLearning\studentmanagement\entity\User.class
+com\greatLearning\studentmanagement\StudentManagementSystemApplication.class
+com\greatLearning\studentmanagement\security\WebSecurityConfig.class
+com\greatLearning\studentmanagement\service\UserDetailsServiceImpl.class
+com\greatLearning\studentmanagement\security\MyUserDetails.class
+com\greatLearning\studentmanagement\entity\Student.class
+com\greatLearning\studentmanagement\entity\Role.class
